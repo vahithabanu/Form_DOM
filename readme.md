@@ -14,3 +14,7 @@ Include the test suite in your html file which is given below.
 
 - Create a file with an extension of .html.
 - Create a script file with an extension of script.js.
+
+## Output ScreenShot: ##
+
+![Output Screenshots](./Assets/Output.png)
